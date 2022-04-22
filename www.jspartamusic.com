@@ -5,6 +5,5 @@
 - 📫 You can reach me +231779082409/+231555200054...
 
 <!---
-JSPARTAMUSIC/JSPARTAMUSIC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+JSPARTAMUSIC/JSPARTAMUSIC is a ✨ special ✨ site for latest vibes
+---->
